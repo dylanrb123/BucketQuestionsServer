@@ -1,0 +1,16 @@
+{
+  "name": "bucket-questions-server",
+  "version": "0.0.1",
+  "description": "Backend for Bucket Questions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dylan Bannon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.3"
+  }
+}
